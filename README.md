@@ -47,3 +47,9 @@ podemos ver em linha estamos com ctrl+g, G para mover ate o final do arquivos e 
 para buscar uma palavra digitamos /, para buscar mais usamos a letra n, e para buscar para trás N. e ctrl + o para voltar onde estava  
 
 para buscar por frase ?
+
+**Para rodar comandos **
+- :! em seguida o comando que preferir.
+- Ex: :!ls
+
+
