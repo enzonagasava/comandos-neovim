@@ -48,8 +48,10 @@ para buscar uma palavra digitamos /, para buscar mais usamos a letra n, e para b
 
 para buscar por frase ?
 
-**Para rodar comandos **
+**Para rodar comandos**
 - :! em seguida o comando que preferir.
 - Ex: :!ls
 
-
+**Para abrir outro arquivo no vi**
+- :vsp + nome do arquivo para abrir o arquivo ao lado 
+- :sp + nome para abri o arquivo em cima
